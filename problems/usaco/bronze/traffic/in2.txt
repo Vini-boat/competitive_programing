@@ -1,0 +1,7 @@
+6
+none 10 13
+on 2 4
+none 12 16
+off 2 3
+none 9 12
+off 2 5
