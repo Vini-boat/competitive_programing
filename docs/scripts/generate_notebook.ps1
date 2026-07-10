@@ -1,0 +1,1 @@
+pandoc (Get-childItem *.md) -o C:\Users\vinicius.bezerra\Desktop\teste.pdf --template eisvogel.tex --syntax-highlighting idiomatic --pdf-engine=lualate
