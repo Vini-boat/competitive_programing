@@ -70,7 +70,16 @@ const double EPS = 1e-9;     // Para comparações de float/double
 #define sz(x) (int)(x).size()
 
 #define endl '\n'
-#define dbg cerr << "[DBG]:" << __LINE__ << ": "
+
+#ifdef VINI_DEBUG
+template<typename T>
+void debug(const T& a) {cerr << a << '\n';}
+template<typename T, typename... Args>
+void debug(const T& a, Args... r) {cerr << a << " "; debug(r...);}
+#define dbg(...) cerr << "[" << #__VA_ARGS__ << "] ", debug(__VA_ARGS__)
+#else
+#define dbg(...)
+#endif
 
 int main() {
     // --- OTIMIZAÇÃO DE I/O (ESSENCIAL) ---
