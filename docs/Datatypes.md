@@ -11,3 +11,28 @@
 | `double`    | Double-precision float | 8            |                         |                                     |
 | `bool`      | True/False value       | 1            | 0 or 1                  |                                     |
 | `char`      | 8-bit character        | 1            | $−2^7$ to $2^7-1$       | -256 to 256                         |
+
+
+## Tuplas
+
+da pra fazer pra ter elementos com mais de um tipo de dados
+como se fosse um strunct anonimo;
+
+```cpp
+
+vector<
+    tuple<size_t,string,int>
+> cows(N);
+
+
+for(auto& [id, name, weight] : cows){
+    cin >> id >> name >> weight;
+}
+
+
+for(auto& [id, name, weight] : cows){
+    cout << id << " " << name "" << weight << endl;
+}
+```
+
+nesse caso tbm poderia ser usado uma struct

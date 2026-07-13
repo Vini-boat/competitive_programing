@@ -20,12 +20,12 @@ fi
 
 echo -e "${RED}>>> COMPILANDO: $(pwd)/$ARQ <<<${NC}"
 
-g++ -std=c++17 -O2 -Wall -Wextra -Wshadow $ARQ -o main
+g++ -DVINI_DEBUG -std=c++17 -O2 -Wall -Wextra -Wshadow $ARQ -o main
 ```
 
 `/maratona/debug.sh` Copiar o `build.sh` mas mudar a ultima linha
 ```shell
-g++ -std=c++17 -g -Wall -Wextra -Wshadow -fsanitize=address -fsanitize=undefined $ARQ -o main
+g++ -DVINI_DEBUG -std=c++17 -g -Wall -Wextra -Wshadow -fsanitize=address -fsanitize=undefined $ARQ -o main
 ```
 ## Aliasses
 

@@ -132,12 +132,12 @@ for(vector<int> edge : trust){
 
 ### Bipart
 
-[TODO]
+#TODO
 
 mas é basicamente um bfs alternando a cor, se a cor de um vizinho for a mesma da atual quer dizer que não é bipartido.
 se o grafo tem um loop com número impar de segmentos, ele não pode ser bipartido.
 
 ### K-coloring
 
-É NP-complete. não tem como resolver em um tempo rasoável. provavelmente tem alguma restrição que permite resolver de um jeito melhor.
+É NP-complete. não tem como resolver em um tempo rasoável. provavelmente tem alguma restrição que permite resolver por backtracking.
 
