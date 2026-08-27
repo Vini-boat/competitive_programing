@@ -1,3 +1,5 @@
+> **CPH:** 1.3 Floating point numbers, p. 7
+
 ```cpp
 // Define a margem de erro (Epsilon). 1e-9 é o padrão ouro para maratonas.
 const double EPS = 1e-9; 

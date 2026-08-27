@@ -1,3 +1,5 @@
+> **CPH:** —
+
 `/maratona/init.sh`
 ```shell
 #!/bin/bash

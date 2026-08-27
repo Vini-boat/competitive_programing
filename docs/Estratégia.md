@@ -1,3 +1,6 @@
+> **CPH:** cap. 2 Time complexity, p. 17–23 — 2.2 Complexity classes p. 20,
+> 2.3 Estimating efficiency p. 21
+
 # Cheiros
 
 | Fala sobre / Pede                                            | Provavelmente           |

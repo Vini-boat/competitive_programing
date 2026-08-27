@@ -1,3 +1,5 @@
+> **CPH:** —
+
 Só funciona confiavelmente para 0 e -1, pois o `memset` escreve um int8. então vai ficar tudo 0, com o `memset 0`, ou tudo 1, com o `memset -1`.
 
 ```cpp
@@ -10,7 +12,7 @@ Ou da pra usar com vetores com
 
 ```cpp
 int size = 1005;
-vector<int> dp(size;0);
-vector<int> dp(size;-1);
-vector<int> dp(size;99);
+vector<int> dp(size, 0);
+vector<int> dp(size, -1);
+vector<int> dp(size, 99);
 ```

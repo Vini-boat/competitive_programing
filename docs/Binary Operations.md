@@ -1,3 +1,5 @@
+> **CPH:** 10.1 Bit representation p. 95 · 10.2 Bit operations p. 96
+
 # Operadores Binários
 
 São diferentes dos booleanos (tipo `||` e `&&`)

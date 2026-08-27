@@ -1,3 +1,5 @@
+> **CPH:** 8.2 Nearest smaller elements, p. 79
+
 (Pilha Ordenada)
 
 Sempre vai estar ordenado. Isso acontece pela lógica de inserção e remoção.

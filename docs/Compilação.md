@@ -1,3 +1,5 @@
+> **CPH:** 1.1 Programming languages p. 3 · 1.4 Shortening code p. 8
+
 Comando básico
 
 ```shell

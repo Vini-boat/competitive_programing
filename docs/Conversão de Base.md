@@ -3,6 +3,9 @@
   author: Vinicius de Ávila Bezerra
 ---
 
+> **CPH:** —
+
+
 # String para Int
 
 ## Usar a Função `stoi()`

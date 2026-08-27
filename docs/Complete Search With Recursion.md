@@ -3,6 +3,10 @@
     author: Vinicius de Ávila Bezerra
 ---
 
+> **CPH:** 5.1 Generating subsets p. 47, 5.2 Generating permutations p. 49,
+> 5.3 Backtracking p. 50, 5.4 Pruning the search p. 51
+
+
 # Subsets
 
 Percorrer todos os subsets é $O(2^N)$
@@ -28,7 +32,7 @@ void search(int k) {
 ```cpp
 for(int subset =0; subset < (1<<N); subset++){
     for(int i = 0; i < N; i++){
-        if(subet & (1<<i)){
+        if(subset & (1<<i)){
             // do something if element in subset
         }
     }

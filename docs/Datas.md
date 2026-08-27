@@ -1,3 +1,5 @@
+> **CPH:** —
+
 # Datas em C++ — Notebook de Competitive Programming (ad-hoc)
 
 Gerado pelo Claude

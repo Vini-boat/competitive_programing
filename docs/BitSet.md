@@ -1,3 +1,5 @@
+> **CPH:** 4.5 Other structures — Bitset, p. 41 · 10.3 Representing sets p. 98
+
 Pra quando se sabe o maior valor que será armazenado.
 
 ```cpp

@@ -1,3 +1,5 @@
+> **CPH:** 3.3 Binary search, p. 31
+
 Tendo os dados:
 
 O vetor JÁ ESTÁ ordenado.

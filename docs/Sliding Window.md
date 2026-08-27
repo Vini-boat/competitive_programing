@@ -1,3 +1,5 @@
+> **CPH:** 8.1 Two pointers method p. 77 · 8.3 Sliding window minimum p. 81
+
 # Janela tamanho fixo
 
 Exemplo de achar o subarray de 4 elementos que tenha a maior soma 

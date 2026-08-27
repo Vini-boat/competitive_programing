@@ -1,3 +1,7 @@
+> **CPH:** 11.2 Graph representation p. 113 (adjacency list p. 113, matrix p. 114) ·
+> 12.1 Depth-first search p. 117 · 12.2 Breadth-first search p. 119 ·
+> 12.3 Applications p. 121 (Connectivity check p. 121, Bipartiteness check p. 122)
+
 ## Adjacency List
 
 ```cpp

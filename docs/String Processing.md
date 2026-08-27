@@ -1,3 +1,7 @@
+> **CPH:** cap. 26 String algorithms, p. 243 — 26.1 String terminology p. 243,
+> 26.2 Trie p. 244, 26.3 String hashing p. 245, 26.4 Z-algorithm p. 247.
+> O grosso deste doc é STL, que não está no livro.
+
 # String Processing em C++ — Notebook de Competitive Programming
 
 Gerado pelo Claude

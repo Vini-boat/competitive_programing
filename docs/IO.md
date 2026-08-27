@@ -1,3 +1,5 @@
+> **CPH:** 1.2 Input and output, p. 4
+
 USAR A STDERR PARA DEBUGAR (não é identificado pelo CJ) (MENTIRA)
 
 Macro para debug

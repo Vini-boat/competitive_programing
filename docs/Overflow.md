@@ -1,3 +1,5 @@
+> **CPH:** 21.2 Computer arithmetic p. 203 · 1.3 Working with numbers p. 6
+
 ```cpp
 int a = 1000000;
 int b = 1000000;

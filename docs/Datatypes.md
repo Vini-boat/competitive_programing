@@ -1,3 +1,5 @@
+> **CPH:** 1.3 Working with numbers, p. 6
+
 # C++
 
 ## Datatypes
@@ -11,7 +13,7 @@
 | `__int128`  | 128-bit integer        | 16           | $−2^{127}$ to $2^{127}-1$ | $\approx -9*10^{38}$ to $9*10^{38}$ |
 | `double`    | Double-precision float | 8            |                         |                                     |
 | `bool`      | True/False value       | 1            | 0 or 1                  |                                     |
-| `char`      | 8-bit character        | 1            | $−2^7$ to $2^7-1$       | -256 to 256                         |
+| `char`      | 8-bit character        | 1            | $−2^7$ to $2^7-1$       | -128 a 127                         |
 
 
 ## Tuplas

@@ -1,3 +1,5 @@
+> **CPH:** cap. 5 Complete search, p. 47
+
 # Basic Complete Search
 
 É basicamente procurar por todo o solution space e ver qual alternativa é valida.

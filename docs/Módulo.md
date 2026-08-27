@@ -1,3 +1,6 @@
+> **CPH:** 21.2 Modular arithmetic p. 201 — Modular exponentiation p. 202,
+> Modular inverse p. 202 · também 1.3 Modular arithmetic p. 6
+
 Propriedades Fundamentais
 
 A ideia principal é que você pode tirar o resto antes de realizar a operação, e o resultado final será o mesmo. Isso mantém os números pequenos durante todo o cálculo.

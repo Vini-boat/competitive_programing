@@ -1,3 +1,6 @@
+> **CPH:** 4.2 Set structures p. 37 · 4.3 Map structures p. 38 ·
+> 4.6 Comparison to sorting p. 44 (set vs. unordered_set vs. sort — tem benchmark)
+
 `set<T>` a busca é em até O(N) mas só precisa que o T tenha operator<
 `unordered_set<T>` a busca é em até O(1) mas precisa que o T tenha hash
 
